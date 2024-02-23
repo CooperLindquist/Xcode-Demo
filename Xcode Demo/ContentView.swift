@@ -13,9 +13,9 @@ struct ContentView: View {
         ZStack{
             Image("background-plain").resizable().ignoresSafeArea()
             VStack{
-                
+               
                 Image("logo")
-                
+                //yo what is up
                 HStack{
                     Image("card2")
                     Image("card3")
